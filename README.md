@@ -1,6 +1,6 @@
 # defect_detection
 About repository: \
-"I am a final student at National Economics University. My major is Data Science in Economics and Business. This is where i store my essay project." 
+"I am a final student at National Economics University. My major is Data Science in Economics and Business. This is where i store my deep learning project." 
 
 About project: \
 Using Unet model in product defect detection \
